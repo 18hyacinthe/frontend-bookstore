@@ -12,28 +12,12 @@ const MenuList = [
     icon: <i className="fa fa-home" style={iconStyle}></i>
   },
   {
-    title:"Contact",
-    icon: <i className="fa fa-envelope" style={iconStyle}></i>
+    title:"My Books",
+    icon: <i className="fa fa-book" style={iconStyle}></i>
   },
   {
-    title:"AboutUs",
-    icon: <i className="fa fa-info-circle" style={iconStyle}></i>
-  },
-  {
-    title:"Settings",
-    icon: <i className="fa fa-cog" style={iconStyle}></i>
-  },
-  {
-    title:"Contact",
-    icon: <i className="fa fa-home" style={iconStyle}></i>
-  },
-  {
-    title:"RateUs",
-    icon: <i className="fa fa-star" style={iconStyle}></i>
-  },
-  {
-    title:"Change Password",
-    icon: <i className="fa fa-eye" style={iconStyle}></i>
+    title:"Publish Books",
+    icon: <i className="fa fa-book-open" style={iconStyle}></i>
   },
   {
     title:"Settings",
